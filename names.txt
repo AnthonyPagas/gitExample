@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,apagas,Pagas,Anthony
 employee, zlweinstein, Weinstein, Zoe
